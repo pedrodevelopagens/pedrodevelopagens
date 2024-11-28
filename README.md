@@ -46,6 +46,9 @@
   </kbd>
 </p>
 Programador apaixonado por tecnologia. Carioca, sempre com a cabeça cheia de ideias para novos projetos! 🚀
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="natal.gif" alt="Natal" />
+</div>
 
 ## 🚀 Sobre mim
 
