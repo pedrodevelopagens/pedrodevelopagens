@@ -1,4 +1,4 @@
-# Olá, eu sou o **PedroDevJS** 👋 (ou **Pedro Simões**)
+# Olá, eu sou o **Viperszx** 👋 (ou **Pedro Simões**)
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -46,13 +46,10 @@
   </kbd>
 </p>
 Programador apaixonado por tecnologia. Carioca, sempre com a cabeça cheia de ideias para novos projetos! 🚀
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="natal.gif" alt="Natal" />
-</div>
 
 ## 🚀 Sobre mim
 
-Fala ae! Eu sou **Pedro Simões**, mas na comunidade **Dev** sou mais conhecido como **PedroDevJS**. Sou apaixonado por programação e tecnologia, com um foco especial em bots para Discord, automação de sistemas e otimização de performance, principalmente para jogos.
+Fala ae! Eu sou **Pedro Simões**, mas na comunidade **Dev** sou mais conhecido como **Viperszx**. Sou apaixonado por programação e tecnologia, com um foco especial em bots para Discord, automação de sistemas e otimização de performance, principalmente para jogos.
 
 - 💻 Programador com experiência em **JavaScript**, **TypeScript**, **Python**, **Ruby**, **C#** e **Objective-C**.
 - 🔧 Atualmente desenvolvendo bots para Discord com **discord.js**, **discordrb** e **discord.py**.
@@ -61,16 +58,16 @@ Fala ae! Eu sou **Pedro Simões**, mas na comunidade **Dev** sou mais conhecido 
 
 ## 🌟 Projetos em destaque
 
-- **[Bot Discord com Python](https://github.com/PedroDevJS/python-discord-template)**  
+- **[Bot Discord com Python](https://github.com/viperszx/python-discord-template)**  
   Bot para Discord desenvolvido com Python utilizando a biblioteca `discord.py`. Estrutura modular de comandos e cogs, com comandos de slash.
   
-- **[LoriAPI](https://github.com/PedroDevJS/LoriAPI)**  
+- **[LoriAPI](https://github.com/viperszx/LoriAPI)**  
   Projeto focado na API da Loritta, um bot para o Discord, e ainda por cima Brasileira.
 
-- **[Sync Bot](https://github.com/PedroDevJS/sync-site-bot-discord)**  
+- **[Sync Bot](https://github.com/viperszx/sync-site-bot-discord)**  
   Uma bot, para o discord, onde pode ligar a sua conta do discord, com o seu site!
 
-- **[Typescript Base](https://github.com/PedroDevJS/Typescript-Bot-Discord-Base)**  
+- **[Typescript Base](https://github.com/viperszx/Typescript-Bot-Discord-Base)**  
   Um bot pro Discord com Typescript organizado, simples e bom, pra começar a montar o seu bot pro discord.
 
 ## 💼 Habilidades
@@ -82,8 +79,8 @@ Fala ae! Eu sou **Pedro Simões**, mas na comunidade **Dev** sou mais conhecido 
 
 ## 📫 Vamos conversar?
 
-- 💬 Discord: `pedrodev_opsystems`
-- 📧 Email: `pedrodev.acadiosgroup@gmail.com`
+- 💬 Discord: `vipersxz.dev`
+- 📧 Email: `pedro.dev@hsyst.com.br`
 - 🐦 [BlueSky](https://bsky.app/profile/zunkinha.bsky.social)
 
 ## ⚡ Curiosidades
