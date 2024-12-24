@@ -80,7 +80,6 @@ Fala ae! Eu sou **Pedro Simões**, mas na comunidade **Dev** sou mais conhecido 
 ## 📫 Vamos conversar?
 
 - 💬 Discord: `vipersxz.dev`
-- 📧 Email: `pedro.dev@hsyst.com.br`
 - 🐦 [BlueSky](https://bsky.app/profile/zunkinha.bsky.social)
 
 ## ⚡ Curiosidades
