@@ -69,7 +69,7 @@ Um bot para o Discord que sincroniza sua conta do Discord com o seu site.
 ---
 
 <p align="center">
-  <a href="https://github.com/viperszx">GitHub</a> •
-  <a href="https://twitter.com/viperszx">Twitter</a> •
+  <a href="https://github.com/pedrodevelopagens">GitHub</a> •
+  <a href="https://twitter.com/viperszx_dev">Twitter</a> •
   <a href="https://pedrodev.opsystems.shop">Portfólio</a>
 </p>
