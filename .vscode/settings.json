@@ -1,0 +1,133 @@
+{
+  // Editor
+  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "editor.cursorBlinking": "solid",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.maxTokenizationLineLength": 2500,
+  "editor.minimap.enabled": true, // Habilitando o minimap
+  "editor.occurrencesHighlight": "off",
+  "editor.quickSuggestions": {
+    "comments": false,
+    "other": false,
+    "strings": false
+  },
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+
+  // Explorer
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    ".env": ".env*, .env.*",
+    "jest.config.*": "jest.config.*",
+    "nodemon.json": "nodemon.*",
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*, yarn.lock, .node_version, .prettierrc",
+    "tailwind.config.*": "tailwind.config*, postcss.config*",
+    "tsconfig.json": "tsconfig.*.json",
+    "vite.config.*": "vite.config.*"
+  },
+  "explorer.sortOrder": "default",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": false,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    ".vscode": false
+  },
+
+  // Extensions
+  "codeium.disableSupercomplete": true,
+  "codeium.enableCodeLens": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "json",
+    "typescript",
+    "typescriptreact"
+  ],
+  "extensions.ignoreRecommendations": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // Formatter Specific Settings (Prettier)
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.suggest.insertMode": "replace"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "[properties]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+
+  // Terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "MesloLGL Nerd Font Mono",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.gpuAcceleration": "on",
+
+  // Workbench
+  "workbench.commandCenter": false, // Removendo a barra de pesquisa
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.showTabs": "single",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+
+  // Discord Presence
+  "discord.detailsDebugging": "🧪 • {file_name}",
+  "discord.detailsEditing": "📑 • {file_name}",
+  "discord.detailsIdling": "🏠",
+  "discord.largeImage": "📑 • {LANG}",
+  "discord.largeImageIdling": "🏠",
+  "discord.lowerDetailsDebugging": "🧪 • {workspace}",
+  "discord.lowerDetailsEditing": "📁 • {workspace}",
+  "discord.lowerDetailsIdling": "🏠",
+  "discord.lowerDetailsNoWorkspaceFound": "🕸 • Not Here!",
+
+  // Zen Mode
+  "zenMode.hideActivityBar": true,
+  "zenMode.hideStatusBar": true,
+  "zenMode.showTabs": "single",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.empty.hint": "hidden",
+  "glassit.alpha": 220,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "never"
+}
