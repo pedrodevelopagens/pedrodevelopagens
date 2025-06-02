@@ -12,7 +12,7 @@ Fala ae! Eu sou **Pedro Simões**, mas sou mais conhecido como **PedroDev**. Sou
 - 💻 Programador com experiência em **JavaScript**, **TypeScript**, **Python** e **Ruby**.
 - 🔧 Atualmente desenvolvendo bots para Discord com **discord.js**, **discordrb** e **discord.py**.
 - 🖥️ Interessado em melhorar o Discord!
-- 🌐 Atualmente uso Linux, e estou adorando!
+- 🌐 Atualmente uso Linux como sistema operacional!
 
 ## 🛠️ Tecnologias
 
@@ -29,7 +29,6 @@ Fala ae! Eu sou **Pedro Simões**, mas sou mais conhecido como **PedroDev**. Sou
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="animation: float 3s ease-in-out infinite;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
@@ -40,7 +39,6 @@ Fala ae! Eu sou **Pedro Simões**, mas sou mais conhecido como **PedroDev**. Sou
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
