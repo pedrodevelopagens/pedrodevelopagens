@@ -1,8 +1,8 @@
 # Olá, eu sou o **PedroDev** 👋 (ou **Pedro Simões**)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrodevelopagens&show_icons=true&theme=radical" alt="PedroDev's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevelopagens&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrodevelopagens&show_icons=true&theme=tokyonight" alt="PedroDev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevelopagens&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ## 🚀 Sobre mim
