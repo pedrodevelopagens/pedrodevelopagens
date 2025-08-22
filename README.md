@@ -50,7 +50,7 @@ Fala ae! Eu sou **Pedro Simões**, mas sou mais conhecido como **PedroDev**. Sou
 Bot para Discord desenvolvido com Python utilizando a biblioteca `discord.py`. Estrutura modular de comandos e cogs, com comandos de slash.
 
 ### LoriAPI
-Projeto focado na API da Loritta, um bot para o Discord, e ainda por cima Brasileira.
+Projeto focado na API da Loritta, um bot para o Discord, e ainda por cima brasileira.
 
 ### Sync Bot
 Um bot para o Discord que sincroniza sua conta do Discord com o seu site.
